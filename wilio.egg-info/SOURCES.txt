@@ -1,0 +1,7 @@
+setup.py
+wilio.egg-info/PKG-INFO
+wilio.egg-info/SOURCES.txt
+wilio.egg-info/dependency_links.txt
+wilio.egg-info/entry_points.txt
+wilio.egg-info/requires.txt
+wilio.egg-info/top_level.txt

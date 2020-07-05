@@ -1,0 +1,4 @@
+
+        [console_scripts]
+        weatherTool=main:main_command
+    
