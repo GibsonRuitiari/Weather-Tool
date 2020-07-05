@@ -32,8 +32,6 @@ Usage
     Go to your terminal switch to the folder containing the repo specifically the main.py.
     Connect to the internet
     In your terminal type $ python3 main.py
-    If you want to use another location, in your terminal type $ python3 main.py --location your-location eg python3 main.py --location london
-
 Issues, Contributions
 
 The tool is far from perfect so for any issues or contributions just ping me at: gibsonruitiari@gmail.com < >
@@ -65,7 +63,6 @@ the default location which is nairobi.
 2. Go to your terminal switch to the folder containing the repo specifically the main.py.
 3. Connect to the internet  
 4. In your terminal type $ python3 main.py  
-5. If you want to use another location, in your terminal type $ python3 main.py --location your-location eg python3 main.py --location london
 
 
 ---
